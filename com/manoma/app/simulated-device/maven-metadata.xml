@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.manoma.app</groupId>
+  <artifactId>simulated-device</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171024133859</lastUpdated>
+  </versioning>
+</metadata>
